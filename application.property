@@ -1,2 +1,4 @@
-solar.property1=property1
-solar.property2=property2
+spring.jpa.database=MYSQL
+spring.datasource.url=jdbc:mysql://localhost:3306/solar?useSSL=false
+spring.datasource.username=root
+spring.datasource.password=@four123
